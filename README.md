@@ -1,6 +1,5 @@
 ProgFund
 ========
-weeks
 9. Loop
 10. Loop
 11. Loop
